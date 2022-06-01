@@ -2,13 +2,13 @@
 
 I am a Full Stack Software Engineer who enjoys both building and maintaining S/W. I've worked in the Financial services, entertainment and e-commerce industries.
 
-I've worked for iPay Africa, Pesapal Ltd - Owners of Ticketsasa.com, Techsavanna Technologies, Digital4Africa and Thrive Global via Andela LTD. I'm open to all opportunities. Reach out for any open source or paid projects. 
+I've worked for iPay Africa, Pesapal Ltd - Owners of Ticketsasa.com, Techsavanna Technologies, Digital4Africa and Thrive Global via Andela LTD. I'm open to contributing to open source software in my free time.
 
-- 🔭 I’m currently working for Thrive Global(via Andela LTD).
-- 🌱 I’m currently learning Golang.
+- 🔭 I’m currently working for Fattmerchant - Stax(via Andela LTD).
+- 🌱 I’m currently learning Blockchain Development via Udacity.
 - 👯 I’m looking to collaborate on any open source/paid projects. Please reach out to me on any I can be of help on.
-- 💬 Ask me any PHP/Laravel/WordPress, Javascript/ReactJS or devOps(Linux) questions. I'd be glad to help.
-- 📫 How to reach me: `Twitter` - [@nick_kimuli](https://twitter.com/nick_kimuli) & `Email` - [nicholaskimuli@gmail.com](mailto:nicholaskimuli@gmail.com)
+- 💬 Ask me any Javascript/ReactJS/NodeJS/Typescript, PHP/Laravel/WordPress or devOps(Linux) questions. I'd be glad to help.
+- 📫 How to reach me: `Email` - [nicholaskimuli@gmail.com](mailto:nicholaskimuli@gmail.com)
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love traveling and am a part-time photographer.
 
