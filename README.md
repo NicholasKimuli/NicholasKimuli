@@ -4,7 +4,6 @@ I am a Full Stack Software Engineer who enjoys both building and maintaining S/W
 
 I've worked for iPay Africa, Pesapal Ltd - Owners of Ticketsasa.com, Techsavanna Technologies, Digital4Africa and Thrive Global via Andela LTD. I'm open to contributing to open source software in my free time.
 
-- 🔭 I’m currently working for Fattmerchant - Stax(via Andela LTD).
 - 🌱 I’m currently learning Blockchain Development via Udacity.
 - 👯 I’m looking to collaborate on any open source/paid projects. Please reach out to me on any I can be of help on.
 - 💬 Ask me any Javascript/ReactJS/NodeJS/Typescript, PHP/Laravel/WordPress or devOps(Linux) questions. I'd be glad to help.
