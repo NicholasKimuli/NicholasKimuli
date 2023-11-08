@@ -15,7 +15,7 @@ I've worked for iPay Africa, Pesapal Ltd - Owners of Ticketsasa.com, Techsavanna
 
 [LinkedIn](https://www.linkedin.com/in/nicholaskimuli/) • 
 [Twitter](https://twitter.com/nick_kimuli) • 
-![Profile views](https://gpvc.arturio.dev/NicholasKimuli)
+[Codewars](https://www.codewars.com/users/nick_kimuli/badges/micro)
 
 <center>
   <table>
