@@ -2,7 +2,7 @@
 
 I am a Full-Stack Sr. Software Engineer who enjoys both building and maintaining S/W. I've worked in the Financial services, entertainment and e-commerce industries.
 
-I've worked for iPay Africa, Pesapal Ltd - Owners of Ticketsasa.com, Techsavanna Technologies, Digital4Africa and Thrive Global via Andela LTD. I'm open to contributing to open source software in my free time.
+I've worked for iPay Africa, Pesapal Ltd(Ticketsasa.com), Thrive Global and Stax Payments. I'm open to contributing to open source software in my free time.
 
 - 🌱 I’m currently learning Blockchain Development via Udacity.
 - 👯 I’m looking to collaborate on any open source/paid projects. Please reach out to me on any I can be of help on.
@@ -14,7 +14,7 @@ I've worked for iPay Africa, Pesapal Ltd - Owners of Ticketsasa.com, Techsavanna
 ## Find me on the internet :earth_africa:
 
 [LinkedIn](https://www.linkedin.com/in/nicholaskimuli/) • 
-[Twitter](https://twitter.com/nick_kimuli)
+[Twitter](https://x.com/nick_kimuli)
 
 <center>
   <table>
